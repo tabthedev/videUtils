@@ -1,5 +1,5 @@
 return {
     child = require("@self/src/child"),
-    waitForChid = require("@self/src/waitForChid"),
+    waitForChild = require("@self/src/waitForChild"),
     springyButton = require("@self/src/springyButton"),
 }
