@@ -6,3 +6,4 @@ realm = "shared"
 
 [dependencies]
 vide = "centau/vide@0.4.1"
+observers = "sleitnick/observers@^1.0.0"
