@@ -1,0 +1,8 @@
+[package]
+name = "tabthedev/vide-utils"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+vide = "centau/vide@0.4.1"
