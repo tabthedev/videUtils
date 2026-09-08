@@ -1,5 +1,7 @@
 [package]
 name = "tabthedev/vide-utils"
+description = "A small utilities for centau/vide"
+license = "MIT"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
